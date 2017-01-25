@@ -9,10 +9,6 @@ https://developers.meethue.com/documentation/color-conversions-rgb-xy
 
 I've used the formulas and Objective-C example code and transfered it to JavaScript.
 
-## Authors
-
-Ricardo Klement ([www.usolved.net](http://usolved.net))
-
 ## Installation
 
 Just include the cie_rgb_converter.js file to your HTML page:
@@ -33,3 +29,7 @@ var rgb = cie_to_rgb(0.6611, 0.2936)
 ```
 var cie = rgb_to_cie(255, 39, 60)
 ```
+
+## Authors
+
+Ricardo Klement ([www.usolved.net](http://usolved.net))
